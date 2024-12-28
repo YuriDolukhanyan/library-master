@@ -1,0 +1,6 @@
+com\epam\rd\autotasks\library\Author.class
+com\epam\rd\autotasks\library\Publisher.class
+com\epam\rd\autotasks\library\Book.class
+com\epam\rd\autotasks\library\config\AuthorConfig.class
+com\epam\rd\autotasks\library\config\PublisherConfig.class
+com\epam\rd\autotasks\library\config\BookConfig.class
